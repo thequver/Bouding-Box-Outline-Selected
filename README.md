@@ -3,3 +3,4 @@ This blender addon adds a toggle to replace the default object highlight overlay
 Save your work before installation
 
 ![Screenshot](/Screenshot.png?raw=true)
+![Screenshot](/Screenshot2.png?raw=true)
